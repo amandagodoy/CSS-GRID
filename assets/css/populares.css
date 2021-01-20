@@ -31,7 +31,7 @@
     width: 100%;
 }
 
-.populares__card__corpo {
+.populares__card___corpo {
     display: grid;
     grid-area: card-corpo;
     grid-row-gap: .5rem;
